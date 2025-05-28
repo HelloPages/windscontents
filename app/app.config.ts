@@ -1,10 +1,10 @@
 export default defineAppConfig({
   cover: '/cover.jpg',
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind',
-    mastodon: '@atinux@webtoo.ls',
-    bluesky: 'atinux.com',
+    twitter: 'username',
+    github: 'username',
+    mastodon: 'username',
+    bluesky: 'username',
   },
   icon: {
     aliases: {
