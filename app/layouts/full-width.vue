@@ -1,3 +1,4 @@
+    <!-- 404 -->
 <template>
   <div class="py-10 m-auto sm:px-8">
     <main class="px-4 mx-auto max-w-2xl prose">
