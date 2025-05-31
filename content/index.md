@@ -1,6 +1,6 @@
 ---
 navigation:
-  title: Homes
+  title: Home
 ---
 
 # Content Wind
